@@ -1,0 +1,15 @@
+/home/samuel/Escritorio/PracticasNet/exepciones/bin/Debug/net6.0/exepciones
+/home/samuel/Escritorio/PracticasNet/exepciones/bin/Debug/net6.0/exepciones.deps.json
+/home/samuel/Escritorio/PracticasNet/exepciones/bin/Debug/net6.0/exepciones.runtimeconfig.json
+/home/samuel/Escritorio/PracticasNet/exepciones/bin/Debug/net6.0/exepciones.dll
+/home/samuel/Escritorio/PracticasNet/exepciones/bin/Debug/net6.0/exepciones.pdb
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/exepciones.csproj.AssemblyReference.cache
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/exepciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/exepciones.AssemblyInfoInputs.cache
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/exepciones.AssemblyInfo.cs
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/exepciones.csproj.CoreCompileInputs.cache
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/exepciones.dll
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/refint/exepciones.dll
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/exepciones.pdb
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/exepciones.genruntimeconfig.cache
+/home/samuel/Escritorio/PracticasNet/exepciones/obj/Debug/net6.0/ref/exepciones.dll

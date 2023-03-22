@@ -1,0 +1,15 @@
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/bin/Debug/net6.0/estructuraDatos
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/bin/Debug/net6.0/estructuraDatos.deps.json
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/bin/Debug/net6.0/estructuraDatos.runtimeconfig.json
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/bin/Debug/net6.0/estructuraDatos.dll
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/bin/Debug/net6.0/estructuraDatos.pdb
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/estructuraDatos.csproj.AssemblyReference.cache
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/estructuraDatos.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/estructuraDatos.AssemblyInfoInputs.cache
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/estructuraDatos.AssemblyInfo.cs
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/estructuraDatos.csproj.CoreCompileInputs.cache
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/estructuraDatos.dll
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/refint/estructuraDatos.dll
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/estructuraDatos.pdb
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/estructuraDatos.genruntimeconfig.cache
+/home/samuel/Escritorio/PracticasNet/estructuraDatos/obj/Debug/net6.0/ref/estructuraDatos.dll

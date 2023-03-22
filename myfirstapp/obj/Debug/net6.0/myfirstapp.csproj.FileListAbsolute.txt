@@ -1,0 +1,15 @@
+/home/samuel/Escritorio/PracticasNet/myfirstapp/bin/Debug/net6.0/myfirstapp
+/home/samuel/Escritorio/PracticasNet/myfirstapp/bin/Debug/net6.0/myfirstapp.deps.json
+/home/samuel/Escritorio/PracticasNet/myfirstapp/bin/Debug/net6.0/myfirstapp.runtimeconfig.json
+/home/samuel/Escritorio/PracticasNet/myfirstapp/bin/Debug/net6.0/myfirstapp.dll
+/home/samuel/Escritorio/PracticasNet/myfirstapp/bin/Debug/net6.0/myfirstapp.pdb
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/myfirstapp.csproj.AssemblyReference.cache
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/myfirstapp.AssemblyInfoInputs.cache
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/myfirstapp.AssemblyInfo.cs
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/myfirstapp.csproj.CoreCompileInputs.cache
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/myfirstapp.dll
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/refint/myfirstapp.dll
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/myfirstapp.pdb
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/myfirstapp.genruntimeconfig.cache
+/home/samuel/Escritorio/PracticasNet/myfirstapp/obj/Debug/net6.0/ref/myfirstapp.dll

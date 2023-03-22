@@ -1,0 +1,15 @@
+/home/samuel/Escritorio/PracticasNet/metodos/bin/Debug/net6.0/metodos
+/home/samuel/Escritorio/PracticasNet/metodos/bin/Debug/net6.0/metodos.deps.json
+/home/samuel/Escritorio/PracticasNet/metodos/bin/Debug/net6.0/metodos.runtimeconfig.json
+/home/samuel/Escritorio/PracticasNet/metodos/bin/Debug/net6.0/metodos.dll
+/home/samuel/Escritorio/PracticasNet/metodos/bin/Debug/net6.0/metodos.pdb
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/metodos.csproj.AssemblyReference.cache
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/metodos.AssemblyInfoInputs.cache
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/metodos.AssemblyInfo.cs
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/metodos.csproj.CoreCompileInputs.cache
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/metodos.dll
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/refint/metodos.dll
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/metodos.pdb
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/metodos.genruntimeconfig.cache
+/home/samuel/Escritorio/PracticasNet/metodos/obj/Debug/net6.0/ref/metodos.dll

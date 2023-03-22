@@ -1,0 +1,15 @@
+/home/samuel/Escritorio/PracticasNet/staticMV/bin/Debug/net6.0/static
+/home/samuel/Escritorio/PracticasNet/staticMV/bin/Debug/net6.0/static.deps.json
+/home/samuel/Escritorio/PracticasNet/staticMV/bin/Debug/net6.0/static.runtimeconfig.json
+/home/samuel/Escritorio/PracticasNet/staticMV/bin/Debug/net6.0/static.dll
+/home/samuel/Escritorio/PracticasNet/staticMV/bin/Debug/net6.0/static.pdb
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/static.csproj.AssemblyReference.cache
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/static.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/static.AssemblyInfoInputs.cache
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/static.AssemblyInfo.cs
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/static.csproj.CoreCompileInputs.cache
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/static.dll
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/refint/static.dll
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/static.pdb
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/static.genruntimeconfig.cache
+/home/samuel/Escritorio/PracticasNet/staticMV/obj/Debug/net6.0/ref/static.dll
